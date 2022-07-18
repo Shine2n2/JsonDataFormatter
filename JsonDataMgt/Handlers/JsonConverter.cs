@@ -7,13 +7,12 @@ namespace JsonDataMgt.Handlers
 {
 
 
-    public class JsonConverter
+    public class JsonConverter:IJsonConverter
         {
-            private readonly string DataSource;
-           
+                      
             public async Task<List<T>> ReadJson<T>(string jsonFile)
             {
-                var readText = await File.ReadAllTextAsync(DataSource + jsonFile);
+                var readText = await File.ReadAllTextAsync(jsonFile);
                 var objects = new List<T>();
                 var serializer = new JsonSerializer();
                 using (var stringReader = new StringReader(readText))
