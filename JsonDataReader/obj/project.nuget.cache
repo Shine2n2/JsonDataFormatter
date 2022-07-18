@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KHyvj9A7DI+wtTG+MeA574mvXCU7skf7ilJu5tCupu7bnZWNJHBpE4tCRbJ6ta/OWjhXxck94vqKSDxjt7W7oQ==",
+  "dgSpecHash": "vFwy0wR3OljmDmnn5Fffz7x9jV9z6MA3euNEYgPSBijZz0KvtZwplhoLzhA3m2EKqDI2p+/pGgFemXLknc89hA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Decagon\\Desktop\\acellerix\\JsonDataFormatter\\JsonDataReader\\JsonDataReader.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Decagon\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Decagon\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",

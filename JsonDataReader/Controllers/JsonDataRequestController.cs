@@ -11,6 +11,11 @@ namespace JsonDataReader.Controllers
     {
         private readonly IJsonConverter _jsonConverter;
 
+        public JsonDataRequestController()
+        {
+            _jsonConverter = JsonConverter;   
+        }
+
         [HttpPost]
         public IActionResult RequestJsonData(GetJsonData getJsonData)
         {
