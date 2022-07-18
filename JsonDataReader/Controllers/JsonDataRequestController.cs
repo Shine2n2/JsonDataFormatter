@@ -9,9 +9,11 @@ namespace JsonDataReader.Controllers
     public class JsonDataRequestController : ControllerBase
     {
         [HttpPost]
-        public IActionResult PostPerson(JsonRequestDataDto jsonRequestDto)
+        public IActionResult RequestJsonData(GetJsonData getJsonData)
         {
-            return ok(jsonRequestDto);
+            return null;
         }
+
+
     }
 }

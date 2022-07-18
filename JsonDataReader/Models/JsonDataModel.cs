@@ -4,7 +4,7 @@ namespace JsonDataReader.Models
 {
     public class JsonDataModel
     {
-        // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
+        
         public class Openinghour
         {
             public string type { get; set; }

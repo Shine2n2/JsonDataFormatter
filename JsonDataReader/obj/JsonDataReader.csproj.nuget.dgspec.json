@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Decagon\\Documents\\PracticeProject\\JsonDataReader\\JsonDataReader\\JsonDataReader.csproj": {}
+    "C:\\Users\\Decagon\\Desktop\\acellerix\\JsonDataFormatter\\JsonDataReader\\JsonDataReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Decagon\\Documents\\PracticeProject\\JsonDataReader\\JsonDataReader\\JsonDataReader.csproj": {
+    "C:\\Users\\Decagon\\Desktop\\acellerix\\JsonDataFormatter\\JsonDataReader\\JsonDataReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decagon\\Documents\\PracticeProject\\JsonDataReader\\JsonDataReader\\JsonDataReader.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\acellerix\\JsonDataFormatter\\JsonDataReader\\JsonDataReader.csproj",
         "projectName": "JsonDataReader",
-        "projectPath": "C:\\Users\\Decagon\\Documents\\PracticeProject\\JsonDataReader\\JsonDataReader\\JsonDataReader.csproj",
+        "projectPath": "C:\\Users\\Decagon\\Desktop\\acellerix\\JsonDataFormatter\\JsonDataReader\\JsonDataReader.csproj",
         "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Decagon\\Documents\\PracticeProject\\JsonDataReader\\JsonDataReader\\obj\\",
+        "outputPath": "C:\\Users\\Decagon\\Desktop\\acellerix\\JsonDataFormatter\\JsonDataReader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
